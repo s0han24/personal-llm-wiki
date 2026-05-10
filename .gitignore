@@ -1,3 +1,12 @@
-.obsidian/
-.DS_Store
+# Source documents — local only, never committed
 raw/
+
+# State file — lives inside raw/ but explicitly excluded in case raw/ is ever un-ignored
+**/.raw_state.json
+
+# Obsidian workspace files
+.obsidian/
+
+# OS
+.DS_Store
+*.swp
