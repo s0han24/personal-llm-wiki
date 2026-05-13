@@ -13,3 +13,5 @@ raw/
 
 # Python
 __pycache__/
+
+report/
